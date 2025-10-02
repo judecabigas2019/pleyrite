@@ -1,0 +1,16 @@
+{
+  "name": "playwright-listener",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
